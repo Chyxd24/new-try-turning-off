@@ -7,9 +7,8 @@ the laugh. Limit: 200 characters. Writes one line to /output/entry.txt.
 import os
 
 LINE = (
-    "Okay sir I've unplugged it, rebooted it, held it gently and even "
-    "said sorry to it — at this point I'm starting to think the "
-    "problem might be you."
+    "Sir, I've unplugged it, rebooted it, hugged it and apologised to it, "
+    "and I'm now 90% sure the problem was never the device — it's you."
 )
 
 LIMIT = 200
